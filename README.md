@@ -16,7 +16,7 @@ I'm a senior developer with a focus on web development. My expertise is in PHP, 
   - [Sample React wallet](https://github.com/josecelano/react-bitcoin-wallet)
   - [Bitcoin book reviewer](https://www.amazon.es/Learning-Bitcoin-Richard-Caetano-ebook/dp/B014JH14XG?asin=B014JH14XG&revisionId=&format=2&depth=1)
 
-- I'm currently working as senior developer in HYVE, a 20-year innocation compnay located in Munich.
+- I'm currently working as a senior developer in HYVE, a 20-year innovation company located in Munich.
 
 ## Things I am interested in
 
@@ -26,7 +26,7 @@ I'm a senior developer with a focus on web development. My expertise is in PHP, 
   - [DDD aggregates experiment using nodejs](https://github.com/josecelano/ddd-aggregates-and-zombies)
 
 - Fractals
-  - [Applying "Period Cheking" to Mandelbrot set using arbitrary precision](https://github.com/josecelano/mandelbrot-explorer). Hosted using K8S on Digital Ocean. Basic library is written in C. Backend with Python and frontend with VUE.
+  - [Applying "Period Checking" to Mandelbrot set using arbitrary precision](https://github.com/josecelano/mandelbrot-explorer). Hosted using K8S on Digital Ocean. The basic library is written in C. Backend with Python and frontend with VUE.
 
 - PHP experiments
   - [Arbitrary precision package for complex number in PHP](https://github.com/josecelano/php-complex)

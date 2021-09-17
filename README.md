@@ -36,6 +36,13 @@ I'm a senior developer with a focus on web development. My expertise is in PHP, 
 - Conferences
   - I usually attend [Socrates Canaries conference](https://twitter.com/socracan). A [Socrates](https://www.socrates-conference.de/) open space conference.
 
+## Articles
+
+  - [Generating a macOS distributable](https://www.boken-engine.dev/2021-08-17-Iaaki-Saga-for-macOS/)
+  - [How to deploy Svelte apps to GitHub Pages using GitHub Actions](https://josecelano.github.io/svelte-deploy-with-github-actions/)
+  - [DVC: Add Microsoft Azure Blob Storage as remote storage](https://github.com/josecelano/data-version-control/blob/master/docs/azure-blob-storage.md)
+  - [MVC pattern (Spanish)](https://github.com/josecelano/mvc-pattern)
+
 ## Social networks
 
 - [Twitter](https://twitter.com/josecelano)

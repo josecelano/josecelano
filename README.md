@@ -16,7 +16,9 @@ I'm a senior developer with a focus on web development. My expertise is in PHP, 
   - [Sample React wallet](https://github.com/josecelano/react-bitcoin-wallet)
   - [Bitcoin book reviewer](https://www.amazon.es/Learning-Bitcoin-Richard-Caetano-ebook/dp/B014JH14XG?asin=B014JH14XG&revisionId=&format=2&depth=1)
 
-- I'm currently working as a senior developer in HYVE, a 20-year innovation company located in Munich.
+- From 2016 to 2021 I was working in HYVE as manager and developer. HYVE is a 20-year innovation company located in Munich.
+
+- I'm currently working as a developer on open-source projects with focus on managing large image datasets with continuous integration.
 
 ## Things I am interested in
 

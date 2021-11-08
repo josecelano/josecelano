@@ -40,6 +40,7 @@ I'm a senior developer with a focus on web development. My expertise is in PHP, 
 
 ## Articles
 
+  - [Sign automatic commits in GitHub Actions](https://github.com/josecelano/pygithub/blob/main/docs/how_to_sign_automatic_commits_in_github_actions.md)
   - [Generating a macOS distributable](https://www.boken-engine.dev/2021-08-17-Iaaki-Saga-for-macOS/)
   - [How to deploy Svelte apps to GitHub Pages using GitHub Actions](https://josecelano.github.io/svelte-deploy-with-github-actions/)
   - [DVC: Add Microsoft Azure Blob Storage as remote storage](https://github.com/josecelano/data-version-control/blob/master/docs/azure-blob-storage.md)

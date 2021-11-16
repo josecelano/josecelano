@@ -44,6 +44,7 @@ I'm a senior developer with a focus on web development. My expertise is in PHP, 
   - [Generating a macOS distributable](https://www.boken-engine.dev/2021-08-17-Iaaki-Saga-for-macOS/)
   - [How to deploy Svelte apps to GitHub Pages using GitHub Actions](https://josecelano.github.io/svelte-deploy-with-github-actions/)
   - [DVC: Add Microsoft Azure Blob Storage as remote storage](https://github.com/josecelano/data-version-control/blob/master/docs/azure-blob-storage.md)
+  - [DDD aggregates without persistence](https://github.com/josecelano/ddd-aggregates-and-zombies/blob/main/doc/ddd-agregates.md)
   - [Detecting periodic orbits in the Mandelbrot Set](https://www.linkedin.com/pulse/detecting-periodic-orbits-mandelbrot-set-jos%C3%A9-celano-mart%C3%ADn/)
   - [MVC pattern (Spanish)](https://github.com/josecelano/mvc-pattern)
 

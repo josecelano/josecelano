@@ -40,6 +40,7 @@ I'm a senior developer with a focus on web development. My expertise is in PHP, 
 
 ## Articles
 
+  - [How to create a single commit with multiple files using GitHub API](https://github.com/josecelano/pygithub/blob/main/docs/how_to_create_a_single_commit_with_multiple_files_using_github_api.md)
   - [Sign automatic commits in GitHub Actions](https://github.com/josecelano/pygithub/blob/main/docs/how_to_sign_automatic_commits_in_github_actions.md)
   - [Generating a macOS distributable](https://www.boken-engine.dev/2021-08-17-Iaaki-Saga-for-macOS/)
   - [How to deploy Svelte apps to GitHub Pages using GitHub Actions](https://josecelano.github.io/svelte-deploy-with-github-actions/)

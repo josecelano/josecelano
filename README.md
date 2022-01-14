@@ -10,7 +10,7 @@ I'm a senior developer with a focus on web development. My expertise is in PHP, 
 
 - I founded a company called iQ Ingenieros together with [Emilio Medina](https://github.com/medinarribas). We were building desktop apps with C# and web apps with C# and PHP for 10 years.
 
-- For a couple of years (2014-2016) I was very involved in Bitcoins projects.
+- For a couple of years (2014-2016) I was very involved in Bitcoin projects.
   - [PHP wrapper for BlockCypher API](https://github.com/blockcypher/php-client)
   - [Sample Bitcoin wallet in PHP](https://github.com/blockcypher/php-wallet-sample)
   - [Sample React wallet](https://github.com/josecelano/react-bitcoin-wallet)

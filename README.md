@@ -35,6 +35,9 @@ I'm a senior developer with a focus on web development. My expertise is in PHP, 
   - [SQL Server console client for Linux in PHP](https://github.com/josecelano/phpsql)
   - [Object literals package for PHP](https://github.com/josecelano/php-object-literal)
 
+- Other experiments:
+  - [Implement a concurrency lock only with GIT](https://github.com/josecelano/library-consumer)
+
 - Conferences
   - I usually attend [Socrates Canaries conference](https://twitter.com/socracan). A [Socrates](https://www.socrates-conference.de/) open space conference.
 

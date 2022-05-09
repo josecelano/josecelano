@@ -2,6 +2,8 @@
 
 I'm a senior developer with a focus on web development. My expertise is in PHP, although I'm starting to enjoy doing things with JavaScript also. I live in Gran Canaria (Spain) and work remotely.
 
+GitHub Résumé: https://resume.github.io/?josecelano
+
 ## Career highlights
 
 - In 2003 I used a PHP framework called [PHP.MVC](https://sourceforge.net/projects/phpmvc/). It was a port to PHP from the popular Java framework Apache Stratus(https://struts.apache.org/). [More info about that project (Spanish)](https://www.scribd.com/document/4421660/Proyecto-Fin-de-Carrera-Jose-Celano)

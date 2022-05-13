@@ -45,6 +45,7 @@ GitHub Résumé: https://resume.github.io/?josecelano
 
 ## Articles
 
+  - [Partially verified commits on GitHub](https://github.com/Nautilus-Cyberneering/GPG-Bootcamp/blob/main/docs/010_GPG-Git-commits-partially-verified.md)
   - [How to sign commits using the GitPython package](https://github.com/josecelano/pygithub/blob/main/docs/how_to_sign_commits_using_the_gitpython_package.md)
   - [Import a GPG key using Python](https://github.com/josecelano/pygithub/blob/main/docs/how_to_sign_commits_using_the_gitpython_package.md#import-a-gpg-key-using-python)
   - [How to create a single commit with multiple files using GitHub API](https://github.com/josecelano/pygithub/blob/main/docs/how_to_create_a_single_commit_with_multiple_files_using_github_api.md)

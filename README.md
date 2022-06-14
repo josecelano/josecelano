@@ -57,8 +57,14 @@ GitHub Résumé: https://resume.github.io/?josecelano
   - [Detecting periodic orbits in the Mandelbrot Set](https://www.linkedin.com/pulse/detecting-periodic-orbits-mandelbrot-set-jos%C3%A9-celano-mart%C3%ADn/)
   - [MVC pattern (Spanish)](https://github.com/josecelano/mvc-pattern)
 
+## Tech Guides
+
+  - [Secure Git Guide](https://github.com/Nautilus-Cyberneering/secure-git-guide)
+
 ## Social networks
 
 - [Twitter](https://twitter.com/josecelano)
 - [LinkedIn](https://www.linkedin.com/in/josecelano)
 - [Gran Canaria Developers Community](https://www.meetup.com/Gran-Canaria-Developer-Community)
+- [YouTube - Developer Playlist](https://www.youtube.com/watch?v=2RxHQoiDctI&list=PLhjwHutuFn9tYkemA3RzMgVLOIsrls28i)
+- [YoutTube- Engineer Manager Playlist](https://www.youtube.com/watch?v=LD9G-pWung4&list=PLhjwHutuFn9s8apfMR1i6b7gPbP83yRTR)

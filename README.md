@@ -18,7 +18,7 @@ GitHub Résumé: https://resume.github.io/?josecelano
   - [Sample React wallet](https://github.com/josecelano/react-bitcoin-wallet)
   - [Bitcoin book reviewer](https://www.amazon.es/Learning-Bitcoin-Richard-Caetano-ebook/dp/B014JH14XG?asin=B014JH14XG&revisionId=&format=2&depth=1)
 
-- From 2016 to 2021 I was working in HYVE as manager and developer. HYVE is a 20-year innovation company located in Munich.
+- From 2016 to 2021 I was working in [HYVE](https://www.hyve.net/) as manager and developer. [HYVE](https://www.hyve.net/) is a 20-year innovation company located in Munich.
 
 - I'm currently working as a developer on open-source projects, for example: [BitTorrent Tracker in Rust](https://github.com/torrust).
 

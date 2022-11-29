@@ -60,6 +60,7 @@ GitHub Résumé: https://resume.github.io/?josecelano
 ## Tech Guides
 
   - [Secure Git Guide](https://github.com/Nautilus-Cyberneering/secure-git-guide)
+  - [Testing in Rust](https://github.com/Nautilus-Cyberneering/testing-in-rust)
 
 ## Social networks
 

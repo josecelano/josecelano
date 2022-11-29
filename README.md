@@ -20,7 +20,7 @@ GitHub Résumé: https://resume.github.io/?josecelano
 
 - From 2016 to 2021 I was working in HYVE as manager and developer. HYVE is a 20-year innovation company located in Munich.
 
-- I'm currently working as a developer on open-source projects with focus on managing large image datasets with continuous integration.
+- I'm currently working as a developer on open-source projects, for example: [BitTorrent Tracker in Rust](https://github.com/torrust).
 
 ## Things I am interested in
 

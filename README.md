@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a senior developer with a focus on web development. My expertise is in PHP, although I'm starting to enjoy doing things with JavaScript also. I live in Gran Canaria (Spain) and work remotely.
+I'm a senior developer with a focus on backend development. My expertise used to be [PHP](https://www.php.net/), although I'm also starting to enjoy doing things with [TypeScript](https://www.typescriptlang.org/) and I'm now working full-time with [Rust](https://www.rust-lang.org/). I live in Gran Canaria (Spain) and work remotely.
 
 GitHub Résumé: https://resume.github.io/?josecelano
 
@@ -8,7 +8,7 @@ GitHub Résumé: https://resume.github.io/?josecelano
 
 - In 2003 I used a PHP framework called [PHP.MVC](https://sourceforge.net/projects/phpmvc/). It was a port to PHP from the popular Java framework Apache Stratus(https://struts.apache.org/). [More info about that project (Spanish)](https://www.scribd.com/document/4421660/Proyecto-Fin-de-Carrera-Jose-Celano)
 
-- I started working professionally in a gaming company working on a game called Free Wheel (https://www.imdb.com/title/tt1893240/). An isometric driving strategy game taking place in a future world inhabited by zombies.
+- I started working professionally in a gaming company working on a game called Free Wheel (https://www.imdb.com/title/tt1893240/). It was an isometric driving strategy game taking place in a future world inhabited by zombies.
 
 - I founded a company called iQ Ingenieros together with [Emilio Medina](https://github.com/medinarribas). We were building desktop apps with C# and web apps with C# and PHP for 10 years.
 

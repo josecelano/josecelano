@@ -24,6 +24,9 @@ GitHub Résumé: https://resume.github.io/?josecelano
 
 ## Things I am interested in
 
+- [Rust language](https://www.rust-lang.org/):
+  - [BitTorrent Tracker in Rust](https://github.com/torrust/torrust-tracker/graphs/contributors).
+  
 - DDD
   - [Symfony DDD sample](https://github.com/josecelano/ddd-symfony-sample)
   - [Laravel DDD sample](https://github.com/josecelano/ddd-laravel-sample)
@@ -37,11 +40,11 @@ GitHub Résumé: https://resume.github.io/?josecelano
   - [SQL Server console client for Linux in PHP](https://github.com/josecelano/phpsql)
   - [Object literals package for PHP](https://github.com/josecelano/php-object-literal)
 
+- [Rust](https://www.rust-lang.org/) experiments:
+  - [Game of life kata]https://github.com/josecelano/game-of-life
+
 - Other experiments:
   - [Implement a concurrency lock only with GIT](https://github.com/josecelano/library-consumer)
-
-- [Rust language](https://www.rust-lang.org/):
-  - [BitTorrent Tracker in Rust](https://github.com/torrust/torrust-tracker/graphs/contributors).
 
 - Conferences
   - I usually attend [Socrates Canaries conference](https://twitter.com/socracan). A [Socrates](https://www.socrates-conference.de/) open space conference.

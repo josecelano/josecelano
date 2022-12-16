@@ -32,13 +32,16 @@ GitHub Résumé: https://resume.github.io/?josecelano
 - Fractals
   - [Applying "Period Checking" to Mandelbrot set using arbitrary precision](https://github.com/josecelano/mandelbrot-explorer). Hosted using K8S on Digital Ocean. The basic library is written in C. Backend with Python and frontend with VUE.
 
-- PHP experiments
+- [PHP](https://www.php.net/) experiments
   - [Arbitrary precision package for complex number in PHP](https://github.com/josecelano/php-complex)
   - [SQL Server console client for Linux in PHP](https://github.com/josecelano/phpsql)
   - [Object literals package for PHP](https://github.com/josecelano/php-object-literal)
 
 - Other experiments:
   - [Implement a concurrency lock only with GIT](https://github.com/josecelano/library-consumer)
+
+- [Rust language](https://www.rust-lang.org/):
+  - [BitTorrent Tracker in Rust](https://github.com/torrust/torrust-tracker/graphs/contributors).
 
 - Conferences
   - I usually attend [Socrates Canaries conference](https://twitter.com/socracan). A [Socrates](https://www.socrates-conference.de/) open space conference.

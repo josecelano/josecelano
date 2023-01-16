@@ -41,7 +41,7 @@ GitHub Résumé: https://resume.github.io/?josecelano
   - [Object literals package for PHP](https://github.com/josecelano/php-object-literal)
 
 - [Rust](https://www.rust-lang.org/) experiments:
-  - [Game of life kata]https://github.com/josecelano/game-of-life
+  - [Game of life kata](https://github.com/josecelano/game-of-life)
 
 - Other experiments:
   - [Implement a concurrency lock only with GIT](https://github.com/josecelano/library-consumer)

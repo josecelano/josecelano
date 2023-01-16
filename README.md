@@ -6,7 +6,7 @@ GitHub Résumé: https://resume.github.io/?josecelano
 
 ## Career highlights
 
-- In 2003 I used a PHP framework called [PHP.MVC](https://sourceforge.net/projects/phpmvc/). It was a port to PHP from the popular Java framework Apache Stratus(https://struts.apache.org/). [More info about that project (Spanish)](https://www.scribd.com/document/4421660/Proyecto-Fin-de-Carrera-Jose-Celano)
+- In 2003 I used a PHP framework called [PHP.MVC](https://sourceforge.net/projects/phpmvc/). It was a port to PHP from the popular Java framework Apache Struts(https://struts.apache.org/). [More info about that project (Spanish)](https://www.scribd.com/document/4421660/Proyecto-Fin-de-Carrera-Jose-Celano)
 
 - I started working professionally in a gaming company working on a game called Free Wheel (https://www.imdb.com/title/tt1893240/). It was an isometric driving strategy game taking place in a future world inhabited by zombies.
 

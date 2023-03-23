@@ -1,6 +1,6 @@
 ## About Me
 
-![](https://komarev.com/ghpvc/?username=josecelano) since 23/03/2023.
+![Since 23/03/2023](https://komarev.com/ghpvc/?username=josecelano)
 
 I'm a senior developer with a focus on backend development. My expertise used to be [PHP](https://www.php.net/), although I'm also starting to enjoy doing things with [TypeScript](https://www.typescriptlang.org/) and I'm now working full-time with [Rust](https://www.rust-lang.org/). I live in Gran Canaria (Spain) and work remotely.
 

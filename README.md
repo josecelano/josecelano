@@ -32,7 +32,7 @@ GitHub Résumé: https://resume.github.io/?josecelano
 - DDD
   - [Symfony DDD sample](https://github.com/josecelano/ddd-symfony-sample)
   - [Laravel DDD sample](https://github.com/josecelano/ddd-laravel-sample)
-  - [DDD aggregates experiment using nodejs](https://github.com/josecelano/ddd-aggregates-and-zombies)
+  - [DDD aggregates experiment using nodejs and zombies](https://github.com/josecelano/ddd-aggregates-and-zombies)
 
 - Fractals
   - [Applying "Period Checking" to Mandelbrot set using arbitrary precision](https://github.com/josecelano/mandelbrot-explorer). Hosted using K8S on Digital Ocean. The basic library is written in C. Backend with Python and frontend with VUE.

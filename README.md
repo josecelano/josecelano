@@ -8,11 +8,9 @@ GitHub Résumé: https://resume.github.io/?josecelano
 
 ## Career highlights
 
-- In 2003 I used a PHP framework called [PHP.MVC](https://sourceforge.net/projects/phpmvc/). It was a port to PHP from the popular Java framework Apache Struts(https://struts.apache.org/). [More info about that project (Spanish)](https://www.scribd.com/document/4421660/Proyecto-Fin-de-Carrera-Jose-Celano)
+- I'm currently working as a developer on open-source projects, for example: [BitTorrent Tracker in Rust](https://github.com/torrust).
 
-- I started working professionally in a gaming company working on a game called Free Wheel (https://www.imdb.com/title/tt1893240/). It was an isometric driving strategy game taking place in a future world inhabited by zombies.
-
-- I founded a company called iQ Ingenieros together with [Emilio Medina](https://github.com/medinarribas). We were building desktop apps with C# and web apps with C# and PHP for 10 years.
+- From 2016 to 2021 I was working in [HYVE](https://www.hyve.net/) as manager and developer. [HYVE](https://www.hyve.net/) is a 20-year innovation company located in Munich.
 
 - For a couple of years (2014-2016) I was very involved in Bitcoin projects.
   - [PHP wrapper for BlockCypher API](https://github.com/blockcypher/php-client)
@@ -20,9 +18,11 @@ GitHub Résumé: https://resume.github.io/?josecelano
   - [Sample React wallet](https://github.com/josecelano/react-bitcoin-wallet)
   - [Bitcoin book reviewer](https://www.amazon.es/Learning-Bitcoin-Richard-Caetano-ebook/dp/B014JH14XG?asin=B014JH14XG&revisionId=&format=2&depth=1)
 
-- From 2016 to 2021 I was working in [HYVE](https://www.hyve.net/) as manager and developer. [HYVE](https://www.hyve.net/) is a 20-year innovation company located in Munich.
+- I founded a company called iQ Ingenieros together with [Emilio Medina](https://github.com/medinarribas). We were building desktop apps with C# and web apps with C# and PHP for 10 years.
 
-- I'm currently working as a developer on open-source projects, for example: [BitTorrent Tracker in Rust](https://github.com/torrust).
+- I started working professionally in a gaming company working on a game called Free Wheel (https://www.imdb.com/title/tt1893240/). It was an isometric driving strategy game taking place in a future world inhabited by zombies.
+
+- In 2003 I used a PHP framework called [PHP.MVC](https://sourceforge.net/projects/phpmvc/). It was a port to PHP from the popular Java framework Apache Struts(https://struts.apache.org/). [More info about that project (Spanish)](https://www.scribd.com/document/4421660/Proyecto-Fin-de-Carrera-Jose-Celano)
 
 ## Things I am interested in
 

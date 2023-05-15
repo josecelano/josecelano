@@ -36,6 +36,7 @@ GitHub Résumé: https://resume.github.io/?josecelano
 
 - Fractals
   - [Applying "Period Checking" to Mandelbrot set using arbitrary precision](https://github.com/josecelano/mandelbrot-explorer). Hosted using K8S on Digital Ocean. The basic library is written in C. Backend with Python and frontend with VUE.
+  - [Colorized Mandelbrot Orbits](https://github.com/josecelano/mandelbrot-orbits-rust). In Rust.
 
 - [PHP](https://www.php.net/) experiments
   - [Arbitrary precision package for complex number in PHP](https://github.com/josecelano/php-complex)

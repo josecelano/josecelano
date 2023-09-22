@@ -66,6 +66,7 @@ GitHub Résumé: https://resume.github.io/?josecelano
   - [DDD aggregates without persistence](https://github.com/josecelano/ddd-aggregates-and-zombies/blob/main/doc/ddd-agregates.md)
   - [Detecting periodic orbits in the Mandelbrot Set](https://www.linkedin.com/pulse/detecting-periodic-orbits-mandelbrot-set-jos%C3%A9-celano-mart%C3%ADn/)
   - [MVC pattern (Spanish)](https://github.com/josecelano/mvc-pattern)
+  - [The Enigmatic Torrent "Source" Field](https://torrust.com/the-enigmatic-torrent-source-field)
 
 ## Tech Guides
 

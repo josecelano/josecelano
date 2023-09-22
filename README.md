@@ -47,7 +47,7 @@ GitHub Résumé: https://resume.github.io/?josecelano
   - [Game of life kata](https://github.com/josecelano/game-of-life)
   - [Cargo Pretty Test](https://github.com/josecelano/cargo-pretty-test)
 
-- Other experiments:
+- [TypeScript](https://www.typescriptlang.org/) experiments:
   - [Implement a concurrency lock only with GIT](https://github.com/josecelano/library-consumer)
 
 - Conferences

@@ -45,6 +45,7 @@ GitHub Résumé: https://resume.github.io/?josecelano
 
 - [Rust](https://www.rust-lang.org/) experiments:
   - [Game of life kata](https://github.com/josecelano/game-of-life)
+  - [Cargp Pretty Test](https://github.com/josecelano/cargo-pretty-test)
 
 - Other experiments:
   - [Implement a concurrency lock only with GIT](https://github.com/josecelano/library-consumer)

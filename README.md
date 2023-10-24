@@ -67,6 +67,7 @@ GitHub Résumé: https://resume.github.io/?josecelano
   - [Detecting periodic orbits in the Mandelbrot Set](https://www.linkedin.com/pulse/detecting-periodic-orbits-mandelbrot-set-jos%C3%A9-celano-mart%C3%ADn/)
   - [MVC pattern (Spanish)](https://github.com/josecelano/mvc-pattern)
   - [The Enigmatic Torrent "Source" Field](https://torrust.com/the-enigmatic-torrent-source-field)
+  - [Don’t DELETE ON CASCADE](https://github.com/torrust/torrust-index/discussions/356)
 
 ## Tech Guides
 

@@ -68,6 +68,7 @@ GitHub Résumé: https://resume.github.io/?josecelano
   - [MVC pattern (Spanish)](https://github.com/josecelano/mvc-pattern)
   - [The Enigmatic Torrent "Source" Field](https://torrust.com/the-enigmatic-torrent-source-field)
   - [Don’t DELETE ON CASCADE](https://github.com/torrust/torrust-index/discussions/356)
+  - [Containerizing Rust Applications](https://torrust.com/containerizing-rust-applications-best-practices)
 
 ## Tech Guides
 

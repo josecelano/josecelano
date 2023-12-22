@@ -4,8 +4,8 @@
 
 I'm a senior developer with a focus on backend development. My expertise used to be [PHP](https://www.php.net/), although I'm also starting to enjoy doing things with [TypeScript](https://www.typescriptlang.org/) and I'm now working full-time with [Rust](https://www.rust-lang.org/). I live in Gran Canaria (Spain) and work remotely.
 
-GitHub Résumé: https://resume.github.io/?josecelano
-Manfred Profile: https://mnf.red/josecelano
+- GitHub Résumé: https://resume.github.io/?josecelano
+- Manfred Profile: https://mnf.red/josecelano
 
 ## Career highlights
 

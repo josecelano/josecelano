@@ -75,6 +75,9 @@ I'm a senior developer with a focus on backend development. My expertise used to
 
   - [Secure Git Guide](https://github.com/Nautilus-Cyberneering/secure-git-guide)
   - [Testing in Rust](https://github.com/Nautilus-Cyberneering/testing-in-rust)
+    - Custom mocks in Rust
+    - Testing APIs in Rust
+    - Static vs Dynamic mocks in Rust
 
 ## Social networks
 

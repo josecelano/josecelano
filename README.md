@@ -53,6 +53,11 @@ I'm a senior developer with a focus on backend development. My expertise used to
 
 - Conferences
   - I usually attend [Socrates Canaries conference](https://twitter.com/socracan). A [Socrates](https://www.socrates-conference.de/) open space conference.
+  - I've attended some of the https://jsdaycanarias.com/ conferences.
+  - https://www.tokensummit.li (2022).
+  - https://www.fintech.li/fintechli-22 (2022).
+  - https://pamplonaswcraft.com (2023).
+  - https://cryptoville.li (2023).
  
 - Meetups
   - I also usually attend [GOFIGEEKS](https://www.meetup.com/comunidad-de-desarrolladores-en-canarias/) meetup.

@@ -53,6 +53,9 @@ I'm a senior developer with a focus on backend development. My expertise used to
 
 - Conferences
   - I usually attend [Socrates Canaries conference](https://twitter.com/socracan). A [Socrates](https://www.socrates-conference.de/) open space conference.
+ 
+- Meetups
+  - I also usually attend [GOFIGEEKS](https://www.meetup.com/comunidad-de-desarrolladores-en-canarias/) meetup.
 
 ## Articles
 

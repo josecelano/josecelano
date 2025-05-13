@@ -9,7 +9,8 @@ I'm a senior developer with a focus on backend development. My expertise used to
 
 ## Career highlights
 
-- I'm currently working as a developer on open-source projects, for example: [BitTorrent Tracker in Rust](https://github.com/torrust).
+- I've been working as a developer on open-source projects since 2021.
+  - [BitTorrent Tracker in Rust](https://github.com/torrust) (fulltime since 2022).
 
 - From 2016 to 2021 I was working in [HYVE](https://www.hyve.net/) as manager and developer. [HYVE](https://www.hyve.net/) is a 20-year innovation company located in Munich.
 

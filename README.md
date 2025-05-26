@@ -53,12 +53,13 @@ I'm a senior developer with a focus on backend development. My expertise used to
   - [Implement a concurrency lock only with GIT](https://github.com/josecelano/library-consumer)
 
 - Conferences
-  - I usually attend [Socrates Canaries conference](https://twitter.com/socracan). A [Socrates](https://www.socrates-conference.de/) open space conference.
-  - I've attended some of the https://jsdaycanarias.com/ conferences.
+  - I usually attend [Socrates Canaries Conference](https://twitter.com/socracan). A [Socrates](https://www.socrates-conference.de/) open space conference (2015, 2016, 2020, 2023, 2025).
+  - I've attended some of the https://jsdaycanarias.com/ conferences (2018, 2019, 2022).
   - https://www.tokensummit.li (2022).
   - https://www.fintech.li/fintechli-22 (2022).
   - https://pamplonaswcraft.com (2023).
   - https://cryptoville.li (2023).
+  - PHP Barcelona Conference (2015).
  
 - Meetups
   - I also usually attend [GOFIGEEKS](https://www.meetup.com/comunidad-de-desarrolladores-en-canarias/) meetup.
